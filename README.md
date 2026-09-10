@@ -27,9 +27,11 @@ El objetivo del proyecto es aplicar de forma práctica conocimientos de administ
 - Creación de notificaciones automáticas.
 - Creación y programación de visualizaciones.
 
-## Documentación
+## 📄 Documentación completa
 
-La documentación completa del proyecto se encuentra disponible en la carpeta `documentation`.
+Puedes consultar la documentación completa del proyecto, incluyendo el desarrollo, las verificaciones y las conclusiones:
+
+➡️ [Ver ServiceNow Capstone Project completo](documentation/ServiceNow-Capstone-Project.pdf)
 
 ## Entorno
 
