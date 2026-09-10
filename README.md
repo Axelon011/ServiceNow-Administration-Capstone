@@ -55,6 +55,24 @@ Se creó una visualización de incidencias activas de sFone agrupadas por priori
 
 ![Scheduled Report](screenshots/07-scheduled-report.png)
 
+## 🧩 Tecnologías y conceptos utilizados
+
+- ServiceNow Personal Developer Instance (PDI)
+- Incident Management
+- User Administration
+- Service Catalog
+- Workflow Studio
+- Flows, Triggers, Actions y Data Pills
+- Catalog Tasks
+- Knowledge Management
+- Services & Service Offerings
+- Email Notifications
+- Visualizations & Scheduled Reports
+
+## ✅ Qué he aprendido
+
+Este proyecto me ha permitido reforzar conocimientos de administración, configuración y automatización en ServiceNow. He trabajado con personalización de formularios, gestión de usuarios y roles, automatización de solicitudes mediante Flows, creación de tareas de catálogo, gestión de Knowledge Bases, asignación automática de incidencias, notificaciones y reporting programado.
+
 ## 📄 Documentación completa
 
 Puedes consultar la documentación completa del proyecto, incluyendo el desarrollo, las verificaciones y las conclusiones:
